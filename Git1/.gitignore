@@ -1,0 +1,42 @@
+
+# Maven target directory
+/target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Maven specific
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# Compiled Java class files
+*.class
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Temporary or backup files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Crash logs
+hs_err_pid*
+replay_pid*
